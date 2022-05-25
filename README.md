@@ -1,11 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Theresa</h1>
-<h3 align="center">When I finally dipped my toes in the world of tech and typed my first ‘Hello World’ - my passion for programming has never stopped</h3>
+<h3 align="center">When I finally adventured in the world of tech and typed my first ‘Hello World’ - my passion for programming has never stopped</h3>
 
 
 
 - 👨‍💻 All of my projects are available at [https://tved.netlify.app/](https://tved.netlify.app/)
 
-- 📫 How to reach me **t.dev0203@gmail.com**
+- 📫 How to reach me **t.dev0203@gmail.com or tmills172@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
