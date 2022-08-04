@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Theresa</h1>
-<h3 align="center">When I finally adventured in the world of tech and typed my first ‘Hello World’ - my passion for programming has never stopped</h3>
+
 
 
 
