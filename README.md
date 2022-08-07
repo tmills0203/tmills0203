@@ -1,5 +1,5 @@
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theresa</h1>
-<p>I’m a highly motivated individual that went to school for psychology but wanted a greater reach to help individuals gain resources to cope with their mental health. A lot of people either cannot afford mental health care or do not know how to cope with everyday stressors. And with this reason, I turned to programming to help me create applications that would help individuals.</p>
+<p>I’m a highly motivated individual that went to school for psychology but wanted a greater reach to help individuals gain resources to cope with their mental health. With this reason, I turned to programming to help me create applications that would help individuals.</p>
 <br><br>    🧠 I'm always learning<br><br>    👨‍💻 All of my projects are available at https://tved.netlify.app/<br><br>    📫 How to reach me t.dev0203@gmail.com or tmills172@hotmail.com<br>
 
 
