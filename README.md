@@ -1,5 +1,5 @@
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theresa</h1>
-<p>I’m a highly motivated individual who went to college for psychology but wanted a greater reach to help others gain resources to cope with their mental health. For this reason, I turned to programming to help me create applications to provide those resources.</p>
+<p>I love to learn new things and explore different topics. I think this is why I got into programming. It has everything I enjoy like learning something new with a mix of creativity. When I'm not typing away at my keyboard, I enjoy playing guitar and watching documentaries.</p>
 <br><br>    🧠 I'm always learning<br><br>    👨‍💻 All of my projects are available at https://tved.netlify.app/<br><br>    📫 How to reach me t.dev0203@gmail.com or tmills172@hotmail.com<br>
 
 
