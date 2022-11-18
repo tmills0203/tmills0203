@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightgreen&style=for-the-badge&logo=github&logo-color=white"/>
   </a>  
   <a href="https://bakerydash.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=👉&message=BakeryDash&color=blue&style=for-the-badge"/>
+     <img src="https://img.shields.io/static/v1?label=👉&message=BakeryDash&color=blue&style=for-the-badge"/>
   </a>
       </p>
         <p>A bakery company that can deliver fresh baked goods to homes BakeryDash</p>
