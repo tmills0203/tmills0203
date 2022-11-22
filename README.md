@@ -53,7 +53,28 @@
         <p>A workout tracker that lets you input your workout and select completed, partially completed, or not completed.</p>
     </td>
   </tr>
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Strat</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="img/strat.gif.gif" width="100%" alt="homepage"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=lightgreen&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/static/v1?label=👉&message=Strat&color=blue&style=for-the-badge"/>
+  </a>
+      </p>
+        <p>👷Still in development🚧. Strat is a website that provides coping information for emotional distress states. The site is not to replace seeking professional help.
+</p>
+    </td >
 </table>
 
 ### 😂 Random Dev Meme
+
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
