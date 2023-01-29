@@ -2,8 +2,8 @@
 
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theresa</h1>
 
-<p>I love to learn new things and explore different topics. I think this is why I got into programming. It has everything I enjoy like learning something new with a mix of creativity. When I'm not typing away at my keyboard, I enjoy playing guitar and watching documentaries.</p>
-<br><br>    🧠 I'm always learning<br><br>    👨‍💻 All of my links are here https://linktr.ee/tdev172<br><br>    📫 How to reach me t.dev0203@gmail.com or tmills172@hotmail.com<br>
+<p>I am an experienced software engineer with a passion for learning new technologies. I enjoy problem-solving-working through the steps needed to accomplish a task. I have worked on various projects, both individually and in teams, to improve my technical skills and communication with others.</p>
+<br><br>    🧠 I'm always learning<br><br>    👨‍💻 All of my links are here https://linktr.ee/tdev172<br><br>    📫 How to reach me t.dev0203@gmail.com
 
 ## 🌐 Socials:
 
