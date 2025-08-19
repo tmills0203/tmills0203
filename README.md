@@ -3,7 +3,7 @@
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theresa</h1>
 
 <p>I am an software engineer with a passion for learning new technologies. I enjoy problem-solving-working through the steps needed to accomplish a task. I have worked on various projects, both individually and in teams, to improve my technical skills and communication with others.</p>
-<br><br>    🧠 I'm always learning<br><br>    👨‍💻 All of my links are here https://linktr.ee/tdev172<br><br>    📫 How to reach me t.dev0203@gmail.com
+<br><br>    🧠 I'm always learning<br><br>    👨‍💻 All of my links are here https://linktr.ee/tdev172<br><br>    📫 How to reach me tmills172@proton.me
 
 ## 🌐 Socials:
 
